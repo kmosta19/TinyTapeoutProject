@@ -16,24 +16,24 @@ project:
 # This section is for the datasheet/website. Use descriptive names (e.g., RX, TX, MOSI, SCL, SEG_A, etc.).
 pinout:
   # Inputs
-  ui[0]: "IN0"
-  ui[1]: "IN1"
-  ui[2]: "IN2"
-  ui[3]: "IN3"
-  ui[4]: "IN4"
-  ui[5]: "IN5"
-  ui[6]: "IN6"
-  ui[7]: "IN7"
+  ui[0]: "DIN0"
+  ui[1]: "DIN1"
+  ui[2]: "DIN2"
+  ui[3]: "DIN3"
+  ui[4]: "DIN4"
+  ui[5]: "DIN5"
+  ui[6]: "DIN6"
+  ui[7]: "DIN7"
 
   # Outputs
-  uo[0]: "OUT0"
-  uo[1]: "OUT1"
-  uo[2]: "OUT2"
-  uo[3]: "OUT3"
-  uo[4]: "OUT4"
-  uo[5]: "OUT5"
-  uo[6]: "OUT6"
-  uo[7]: "OUT7"
+  uo[0]: "DOUT0"
+  uo[1]: "DOUT1"
+  uo[2]: "DOUT2"
+  uo[3]: "DOUT3"
+  uo[4]: "DOUT4"
+  uo[5]: "DOUT5"
+  uo[6]: "DOUT6"
+  uo[7]: "DOUT7"
 
   # Bidirectional pins
   uio[0]: ""
